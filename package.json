@@ -1,0 +1,9 @@
+{
+  "name": "orion-server-demo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": "true",
+  "dependencies": {
+    "orion-server": "https://github.com/alarner/orion-server.git"
+  }
+}
